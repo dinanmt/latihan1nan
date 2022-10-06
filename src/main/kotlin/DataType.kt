@@ -3,7 +3,7 @@ fun main() {
     val dataString = " Nama saya Dinan "
     val dataBoolean = true
 
-    val dataIntVar = 10
+    var dataIntVar = 10
 
 //  dataInt = 6
     dataIntVar = 8
